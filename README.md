@@ -1,5 +1,9 @@
-Android Game - Kill Them All
-=============================
+Android Game - Kill Them All (1)
+================================
+
+part 1 : https://github.com/black-lotus/android-game-kill-them-all-part-1
+part 2 : https://github.com/black-lotus/android-game-kill-them-all-part-2
+
 A simple android game using surfaceview
 The game is tutorial from edu4java (http://www.edu4java.com/en/androidgame/androidgame1.html)
 I add some features, like :
